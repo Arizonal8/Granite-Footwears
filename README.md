@@ -19,6 +19,7 @@ Project consists of a simple design of the user interface, with the user flow
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
+![image](https://github.com/user-attachments/assets/58dca647-7299-4e36-8454-768dbfbde869)
 
 <p align="center">
 Landing Page: <br/>
